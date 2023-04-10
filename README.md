@@ -15,7 +15,7 @@ Try Exchange Email Activity Report today and take control of your email activity
 
 
 
-Future Improvements
+<h2>Future Improvements<h2>
 Add error handling to catch and handle any errors that might occur during the script's execution.
 Add more menu options to provide users with additional functionality, such as the ability to search for emails based on sender, subject, or other criteria.
 Customize the output formatting of the search results to make it more visually appealing and easier to read.
