@@ -86,6 +86,8 @@ There are several areas where this script can be improved in the future:
 </ul>
 <h2>Authors</h2>
 <ul>
+  
+  </html>
 <li>Ervin - <i>Initial work</i> - <a href="https://github.com/mrcodeporter"</a></li>
 </ul>
 <h2>Acknowledgments</h2>
